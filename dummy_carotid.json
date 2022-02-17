@@ -1,0 +1,23 @@
+{
+	"lt.DCC": 1.6,
+	"rt.BULB": 1.6,
+	"src_image": "./demo/I8VAMPO2_1.bmp",
+	"rt.ICA": 1.6,
+	"rt.DCC": 1.6,
+	"lt.BULB": 1.6,
+	"lt.ECA": 1.6,
+	"ls": {
+		"P": true,
+		"O": true,
+		"S": true
+	},
+	"dm": 2,
+	"bp": 4,
+	"tc": 1,
+	"rt.ECA": 1.6,
+	"rst_image": "./demo/11.png",
+	"lt.ICA": 1.6,
+	"name": "홍길동",
+	"lt.PCC": 1.6,
+	"rt.PCC": 1.6
+}
